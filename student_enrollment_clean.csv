@@ -1,0 +1,17 @@
+﻿Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date
+STU1001,Manoj K,manojk@gmail,9876543210,Python,yes,Chennai,23-05-2025
+STU1009,Rajesh Kk,rajeshkk@gmail,8877665544,Python,yes,Coimbatore,15-05-2025
+STU1012,Meena D,meenad@,,Ml,yes,salem,21-02-2025
+STU1014,Lakshmi,lakshmi@gmail,8811223344,Data Science,yes,CHENNAI,07-03-2025
+STU1018,Saranya,saranya22@gmail.com,,Python,yes,chennai,11-02-2025
+STU1020,Revathi M,revathim@yahoo.com,9191919191,Ml,yes,Trichy,12-06-2025
+STU1023,Prasanth J,prasanthj@gmail.com,7474747474,Python,yes,madurai,05-03-2025
+STU1026,Janaki R,janakir@gmail.com,9696969696,Data Science,yes,salem,02-05-2025
+STU1029,Gopal V,gopalv@yahoo,9010101010,Python,yes,coimbatore,12-01-2025
+STU1032,Swetha L,swethal@,,Data Science,yes,CHENNAI,26-05-2025
+STU1035,Karthi P,karthip@gmail,7565656565,Python,yes,COIMBATORE,14-02-2025
+STU1038,Indira K,indirak@gmail.com,,Ml,yes,chennai,01-06-2025
+STU1041,Kishore M,kishorem@gmail.com,8010101010,Machine Learning,yes,CHENNAI,21-02-2025
+STU1044,Rekha N,rekhan@yahoo.com,,Python,yes,chennai,05-02-2025
+STU1047,Ganesh P,ganeshp@,7565656565,Python,yes,Chennai,27-06-2025
+STU1050,Ammu K,ammuk@gmail.com,9787878787,Machine Learning,yes,CHENNAI,13-02-2025

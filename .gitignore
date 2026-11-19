@@ -1,0 +1,220 @@
+
+# ==================================================
+# PYTHON CACHE AND COMPILED FILES
+# ==================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+
+# ==================================================
+# PYTHON PACKAGING AND DISTRIBUTION
+# ==================================================
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+pip-wheel-metadata/
+*.egg
+*.egg-info/
+.installed.cfg
+MANIFEST
+
+# ==================================================
+# VIRTUAL ENVIRONMENTS
+# ==================================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+virtualenv/
+.python-version
+
+# ==================================================
+# ENVIRONMENT VARIABLES AND SECRETS
+# ==================================================
+.env
+.env.*
+!.env.example
+!.env.sample
+secrets/
+credentials/
+credentials.json
+service-account.json
+token.json
+client_secret.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# ==================================================
+# TESTING AND COVERAGE
+# ==================================================
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage/
+nosetests.xml
+coverage.xml
+junit.xml
+*.cover
+.hypothesis/
+
+# ==================================================
+# TYPE CHECKING AND LINTING
+# ==================================================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+.pyright/
+
+# ==================================================
+# JUPYTER NOTEBOOKS
+# ==================================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ==================================================
+# VS CODE AND IDE
+# ==================================================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+.spyderproject/
+.spyproject/
+
+# ==================================================
+# LOGS AND TEMPORARY FILES
+# ==================================================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# ==================================================
+# PYTHON INTERPRETER AND SHELL
+# ==================================================
+.python_history
+.ipython/
+.profile
+ipython_config.py
+
+# ==================================================
+# LANGCHAIN AND LANGSMITH
+# ==================================================
+.langchain/
+.langsmith/
+
+# ==================================================
+# RAG AND VECTOR DATABASES
+# ==================================================
+chroma/
+chroma_db/
+chromadb/
+vectorstore/
+vector_store/
+faiss_index/
+faiss_store/
+weaviate_data/
+qdrant_storage/
+milvus_data/
+*.faiss
+*.pkl
+
+# ==================================================
+# AI MODELS AND MODEL WEIGHTS
+# ==================================================
+models/
+checkpoints/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.gguf
+*.h5
+*.keras
+
+# ==================================================
+# MACHINE LEARNING AND DATA SCIENCE
+# ==================================================
+.mlflow/
+wandb/
+lightning_logs/
+runs/
+artifacts/
+outputs/
+*.parquet
+*.feather
+
+# ==================================================
+# DATABASES
+# ==================================================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==================================================
+# STREAMLIT
+# ==================================================
+.streamlit/secrets.toml
+
+# ==================================================
+# DOCKER
+# ==================================================
+.docker/
+
+# ==================================================
+# NODE.JS (IF USED IN PYTHON PROJECT)
+# ==================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ==================================================
+# OPERATING SYSTEM FILES - WINDOWS / MAC / LINUX
+# ==================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+
+# ==================================================
+# GENERATED DOCUMENTS AND EXPORTS (OPTIONAL)
+# ==================================================
+generated/
+reports/
+screenshots/temp/
